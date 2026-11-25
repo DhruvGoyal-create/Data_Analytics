@@ -1,0 +1,6 @@
+Model,Accuracy,Balanced_Accuracy,Precision,Recall,F1_Score,ROC_AUC,PR_AUC,True_Positives,False_Positives,True_Negatives,False_Negatives,Fit_Time_Sec
+Dummy (Majority Baseline),0.9983,0.5,0.0,0.0,0.0,,,0,0,56864,98,0.01
+Logistic Regression (Unweighted),0.9992,0.8213,0.8289,0.6429,0.7241,0.9592,0.7429,63,13,56851,35,0.62
+Logistic Regression (Balanced Weights),0.9756,0.947,0.0611,0.9184,0.1146,0.9721,0.7156,90,1382,55482,8,1.13
+SMOTE + Logistic Regression,0.997,0.9425,0.3522,0.8878,0.5043,0.9667,0.7523,87,160,56704,11,2.14
+Random Forest (Balanced Weights),0.9994,0.9131,0.8182,0.8265,0.8223,0.9766,0.8187,81,18,56846,17,10.62

@@ -1,0 +1,9 @@
+Column,Raw_Dtype,Raw_Null_or_Corrupt,Pct_Corrupt,Unique_Values
+Transaction ID,object,0,0.0,10000
+Item,object,969,9.69,10
+Quantity,object,479,4.79,7
+Price Per Unit,object,533,5.33,8
+Total Spent,object,502,5.02,19
+Payment Method,object,3178,31.78,5
+Location,object,3961,39.61,4
+Transaction Date,object,460,4.6,367

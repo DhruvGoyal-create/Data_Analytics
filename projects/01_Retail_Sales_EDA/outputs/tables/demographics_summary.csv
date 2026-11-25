@@ -1,0 +1,9 @@
+Age_Group,Customer_Gender,Transactions,Total_Revenue,Average_Order_Value,Average_Profit
+Adults (35-64),F,27274,21159786,775.82,296.04
+Adults (35-64),M,28084,21207395,755.14,290.59
+Seniors (64+),F,331,129891,392.42,196.25
+Seniors (64+),M,388,177179,456.65,187.24
+Young Adults (25-34),F,18535,15075353,813.35,298.46
+Young Adults (25-34),M,19764,15391679,778.77,292.59
+Youth (<25),F,8083,5329659,659.37,243.82
+Youth (<25),M,9577,6355830,663.66,249.37

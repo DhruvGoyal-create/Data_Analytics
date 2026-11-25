@@ -1,0 +1,12 @@
+Metric,Value
+Total Observations,1599
+Unique Observations,1359
+Duplicate Records,240
+Physicochemical Features,11
+Target Feature,quality
+Missing Values,0
+Min Quality Score,3
+Max Quality Score,8
+Mean Quality Score,5.636
+Median Quality Score,6.0
+Std Dev Quality Score,0.808

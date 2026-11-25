@@ -1,0 +1,9 @@
+Item,Price_Per_Unit,Menu_Category
+Cookie,1.0,Bakery
+Tea,1.5,Beverage
+Coffee,2.0,Beverage
+Cake,3.0,Bakery
+Juice,3.0,Beverage
+Sandwich,4.0,Meal
+Smoothie,4.0,Beverage
+Salad,5.0,Meal

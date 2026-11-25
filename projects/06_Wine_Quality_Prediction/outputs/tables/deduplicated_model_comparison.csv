@@ -1,0 +1,5 @@
+Model,Accuracy,Balanced_Acc,Precision,Recall,F1_Score,ROC_AUC,PR_AUC,CV_ROC_AUC,TP,FP,TN,FN
+Dummy (most_frequent),0.864,0.5,0.0,0.0,0.0,,,N/A,0,0,235,37
+Random Forest,0.8934,0.665,0.7222,0.3514,0.4727,0.8749,0.6018,0.869 +/- 0.031,13,5,230,24
+SGD Classifier,0.7169,0.7792,0.3077,0.8649,0.4539,0.8252,0.4455,0.835 +/- 0.038,32,72,163,5
+Support Vector (SVC),0.8051,0.7961,0.3919,0.7838,0.5225,0.8839,0.5818,0.867 +/- 0.030,29,45,190,8

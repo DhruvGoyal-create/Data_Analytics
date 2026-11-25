@@ -1,0 +1,46 @@
+Class,Rank,Ngram,Coefficient
+Negative,1,fix,2.942
+Negative,2,boring,2.5372
+Negative,3,unfair,2.3077
+Negative,4,forgot bad,2.2022
+Negative,5,matchmaking,2.1768
+Negative,6,dabo,2.1718
+Negative,7,worst,2.1259
+Negative,8,need help,2.0911
+Negative,9,best open,2.0738
+Negative,10,tactical,2.0512
+Negative,11,stuff like,2.0327
+Negative,12,plague,2.005
+Negative,13,suck,1.9979
+Negative,14,effect,1.959
+Negative,15,bullshit,1.9585
+Neutral,1,commission,2.7002
+Neutral,2,dota hate,2.2928
+Neutral,3,confirms,2.2464
+Neutral,4,lethal,2.2431
+Neutral,5,dlvr,2.2283
+Neutral,6,lunch,2.1735
+Neutral,7,knowledge,2.1578
+Neutral,8,dub,2.1305
+Neutral,9,inspiring,2.108
+Neutral,10,recycling,2.0917
+Neutral,11,inventory,2.07
+Neutral,12,gang,2.068
+Neutral,13,like league,2.0558
+Neutral,14,love yall,2.0513
+Neutral,15,potato,2.0357
+Positive,1,dope,2.7233
+Positive,2,achievement red,2.5715
+Positive,3,excited,2.3834
+Positive,4,omg finally,2.217
+Positive,5,love,2.1208
+Positive,6,player base,2.0815
+Positive,7,buy another,2.0521
+Positive,8,grateful,2.0298
+Positive,9,best,2.0226
+Positive,10,undertale,1.9989
+Positive,11,doodle,1.9856
+Positive,12,depression,1.9843
+Positive,13,loving,1.9307
+Positive,14,curious,1.9213
+Positive,15,beautiful,1.9202

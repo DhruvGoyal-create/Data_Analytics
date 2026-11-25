@@ -1,0 +1,4 @@
+Model,Accuracy,Precision_Macro,Recall_Macro,F1_Macro,F1_Weighted,Training_Time_Sec
+Multinomial Naive Bayes,0.7608,0.7618,0.7523,0.7532,0.7575,0.05
+Logistic Regression,0.802,0.7999,0.7973,0.798,0.8012,0.85
+Linear Support Vector Classifier (LinearSVC),0.8331,0.8318,0.8291,0.83,0.8325,0.63

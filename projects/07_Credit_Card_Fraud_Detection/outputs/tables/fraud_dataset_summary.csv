@@ -1,0 +1,2 @@
+Total_Transactions,Legitimate_Transactions,Fraudulent_Transactions,Fraud_Prevalence_Pct,Total_Dollar_Volume,Fraud_Dollar_Volume,Fraud_Dollar_Share_Pct,Time_Span_Hours,PCA_Features,Total_Features
+284807,284315,492,0.1727,25162590.01,60127.97,0.239,48.0,28,30

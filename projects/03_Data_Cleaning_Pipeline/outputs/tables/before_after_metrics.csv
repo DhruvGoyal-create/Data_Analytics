@@ -1,0 +1,9 @@
+Feature,Raw_Dtype,Clean_Dtype,Raw_Corrupt_Count,Raw_Corrupt_Pct,Clean_Null_Count,Clean_Null_Pct,Raw_Unique,Clean_Unique,Remediation_Strategy
+Transaction ID,object,object,0,0.0,0,0.0,10000,9974,Validated 100% unique primary keys
+Item,object,object,969,9.69,0,0.0,10,10,Unique price reverse-map; ambiguous tiers labeled explicitly
+Quantity,object,int64,479,4.79,0,0.0,7,5,"Deterministic integer division (Total/Price, tol<1e-5)"
+Price Per Unit,object,float64,533,5.33,0,0.0,8,6,Menu lookup + algebraic back-calc (Total/Qty)
+Total Spent,object,float64,502,5.02,0,0.0,19,17,Forward calc (Qty * Price); verified against raw
+Payment Method,object,object,3178,31.78,0,0.0,5,4,Standardize casing; impute missing with 'Unknown'
+Location,object,object,3961,39.61,0,0.0,4,3,Standardize casing; impute missing with 'Unknown'
+Transaction Date,object,datetime64[ns],460,4.6,460,4.61,367,365,Parsed to ISO datetime; 460 missing preserved as NaT/blank

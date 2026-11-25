@@ -1,0 +1,12 @@
+Metric,Value
+Overall Mean Residual,"$1,040.85"
+Overall Median Residual,"$-9,038.64"
+Overall Residual Std Dev,"$70,059.95"
+Residual Skewness,1.1766
+Residual Kurtosis (Excess),3.4333
+Uncapped Subset Count (<$500k),3944 (95.54%)
+Uncapped Subset MAE,"$46,428.91"
+Uncapped Subset RMSE,"$61,848.69"
+Capped Ceiling Subset Count ($500k+),184 (4.46%)
+Capped Ceiling Subset MAE,"$141,587.86"
+Capped Ceiling Subset RMSE,"$167,698.58"

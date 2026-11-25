@@ -1,0 +1,12 @@
+Metric,Value
+Raw Apps Catalog Rows,"10,841"
+Clean Unique Apps Count,"9,659"
+Dropped Corrupt Rows (Row 10472),1
+Removed Duplicate Scrape Snapshots,"1,181"
+Apps with Valid Ratings,"8,196 (84.9%)"
+Apps with Known Size in MB,"8,431 (87.3%)"
+Apps with Varies with Device Size,"1,228 (12.7%)"
+Raw Reviews Corpus Total Rows,"64,295"
+Clean Reviews with Non-Null Text,"37,427 (58.2%)"
+Merged Reviews with App Metadata,"35,929"
+Unique Apps Represented in Reviews,816

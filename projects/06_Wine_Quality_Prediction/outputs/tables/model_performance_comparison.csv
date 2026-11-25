@@ -1,0 +1,5 @@
+Model,Accuracy,Balanced_Acc,Precision,Recall,F1_Score,Macro_F1,Weighted_F1,ROC_AUC,PR_AUC,CV_ROC_AUC,TP,FP,TN,FN
+Dummy (most_frequent),0.8656,0.5,0.0,0.0,0.0,0.464,0.8033,,,N/A (Constant Predictor),0,0,277,43
+Random Forest,0.9406,0.7987,0.9286,0.6047,0.7324,0.8495,0.9351,0.9523,0.8535,0.894 +/- 0.020,26,2,275,17
+SGD Classifier,0.8375,0.8177,0.4416,0.7907,0.5667,0.7333,0.8552,0.8929,0.5536,0.806 +/- 0.020,34,43,234,9
+Support Vector (SVC),0.8469,0.8133,0.4583,0.7674,0.5739,0.7403,0.862,0.9015,0.6165,0.875 +/- 0.017,33,39,238,10

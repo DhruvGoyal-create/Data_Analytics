@@ -1,0 +1,9 @@
+# Core Dependencies for Task PRJ-01: EDA on Retail Sales Data
+# Python 3.13+ compatible
+pandas==2.2.3
+numpy==2.4.4
+matplotlib==3.10.3
+seaborn==0.13.2
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2

@@ -1,0 +1,2 @@
+Hardware_Processor,Hardware_Machine,Sample_Count,Mean_Latency_ms,Median_Latency_ms,P90_Latency_ms,P95_Latency_ms,P99_Latency_ms,Min_Latency_ms,Max_Latency_ms
+"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",AMD64,1000,0.195,0.179,0.248,0.303,0.417,0.142,0.712

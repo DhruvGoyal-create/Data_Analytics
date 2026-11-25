@@ -1,0 +1,8 @@
+Metric,Value
+Total Raw Observations,1599
+Unique Observations,1359
+Exact Duplicate Rows,240
+Rows in Duplicate Groups,460
+Test Split Observations,320
+Test Rows Identical to a Training Row (Boundary Leakage),77
+Boundary Leakage Rate (%),24.06%

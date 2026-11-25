@@ -1,0 +1,5 @@
+Persona,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_mean,Monetary_median,Monetary_sum,Avg_Order_Value_mean,Avg_Order_Value_median,Cluster_Customer_Count,Revenue_Share_Pct,Customer_Share_Pct
+Champions / High-Value VIPs,12.13,8.0,13.71,10.0,8074.27,3733.87,5781175.08,623.51,369.44,716,64.87,16.51
+Hibernating / Churned At-Risk Customers,182.5,177.0,1.32,1.0,343.45,298.26,553641.45,284.42,224.52,1612,6.21,37.16
+Loyal & Consistent Regulars,71.08,56.0,4.08,4.0,1802.83,1345.62,2114718.42,577.42,360.92,1173,23.73,27.04
+Recent / New Promising Customers,18.12,17.0,2.15,2.0,551.82,471.7,461872.95,282.11,228.78,837,5.18,19.29

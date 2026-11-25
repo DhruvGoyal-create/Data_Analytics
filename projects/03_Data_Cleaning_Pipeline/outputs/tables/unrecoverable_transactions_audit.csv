@@ -1,0 +1,27 @@
+Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date
+TXN_8562645,Salad,,5.0,,,In-store,2023-05-18
+TXN_3229409,Juice,,3.0,,Cash,Takeaway,2023-04-15
+TXN_2962976,Juice,,3.0,,,,2023-03-17
+TXN_8696094,Sandwich,,4.0,,,Takeaway,2023-05-14
+TXN_3611851,,4.0,,,Credit Card,,2023-02-09
+TXN_7524977,,4.0,,,,,2023-12-09
+TXN_9188692,Cake,,3.0,,Credit Card,,2023-12-01
+TXN_4565754,Smoothie,,4.0,,Digital Wallet,Takeaway,2023-10-06
+TXN_6297232,Coffee,,2.0,,,,2023-04-07
+TXN_3251829,Tea,,1.5,,Digital Wallet,In-store,2023-07-25
+TXN_7376255,,,,25.0,,In-store,2023-05-27
+TXN_9646000,,2.0,,,,In-store,2023-12-14
+TXN_6470865,Coffee,,2.0,,Digital Wallet,Takeaway,2023-09-18
+TXN_5884081,Cookie,,1.0,,Digital Wallet,In-store,2023-07-05
+TXN_4628338,Coffee,,2.0,,Cash,,2023-12-25
+TXN_9944500,Smoothie,,4.0,,Cash,In-store,2023-01-03
+TXN_1082717,,,,9.0,Digital Wallet,In-store,2023-12-13
+TXN_2428781,Salad,,5.0,,,In-store,2023-05-09
+TXN_2023651,Sandwich,,4.0,,Cash,In-store,2023-05-25
+TXN_9669616,Coffee,,2.0,,,,2023-06-03
+TXN_1547245,Sandwich,,4.0,,,Takeaway,2023-09-11
+TXN_2546684,Juice,,3.0,,Digital Wallet,Takeaway,2023-04-08
+TXN_4550558,Cookie,,1.0,,Credit Card,In-store,2023-08-04
+TXN_9924732,Sandwich,,4.0,,Credit Card,In-store,2023-01-18
+TXN_1208561,,,,20.0,Credit Card,,2023-08-19
+TXN_1975184,Coffee,,2.0,,Digital Wallet,,2023-01-15

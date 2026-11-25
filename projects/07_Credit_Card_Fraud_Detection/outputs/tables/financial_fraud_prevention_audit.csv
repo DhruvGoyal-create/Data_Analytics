@@ -1,0 +1,6 @@
+Model,Total_Test_Fraud_Dollars,Dollars_Prevented,Dollars_Lost,Fraud_Dollars_Recovered_Pct,False_Positive_Transactions,Legitimate_Dollars_Frictioned
+Dummy (Majority Baseline),10644.93,0.0,10644.93,0.0,0,0.0
+Logistic Regression (Unweighted),10644.93,4506.29,6138.64,42.33,13,902.67
+Logistic Regression (Balanced Weights),10644.93,9986.32,658.61,93.81,1382,443861.88
+SMOTE + Logistic Regression,10644.93,8818.43,1826.5,82.84,160,37668.58
+Random Forest (Balanced Weights),10644.93,6551.61,4093.32,61.55,18,950.71

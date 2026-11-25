@@ -1,0 +1,4 @@
+Metric,Min,Max,Mean,Std_Dev,IQR_Lower,IQR_Upper,IQR_Outliers_Count,Z_Score_Outliers_Count,Action_Taken
+Quantity,1.0,5.0,3.02,1.42,-1.0,7.0,0,0,None (Within normal limits)
+Price Per Unit,1.0,5.0,2.95,1.28,-1.0,7.0,0,0,None (Within normal limits)
+Total Spent,1.0,25.0,8.93,6.0,-8.0,24.0,268,0,Retained (Verified physical business transaction: 5 Salads @ $5.00)

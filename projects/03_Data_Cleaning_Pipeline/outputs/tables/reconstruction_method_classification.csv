@@ -1,0 +1,11 @@
+Field,Method_Classification,Record_Count,Percentage
+Item,directly_observed,9011,90.34
+Item,deterministic_reverse_price_mapping,489,4.9
+Item,unresolved,474,4.75
+Quantity,directly_observed,9518,95.43
+Quantity,deterministic_algebraic_reconstruction,456,4.57
+Price Per Unit,directly_observed,9447,94.72
+Price Per Unit,inferred_domain_menu_assumption,479,4.8
+Price Per Unit,deterministic_algebraic_reconstruction,48,0.48
+Total Spent,directly_observed,9495,95.2
+Total Spent,deterministic_algebraic_reconstruction,479,4.8

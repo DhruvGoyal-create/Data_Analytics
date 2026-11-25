@@ -1,0 +1,10 @@
+Metric,Value
+Target Hourly Volume (Design Target),"1,000,000 Transactions / Hour"
+Required Steady-State Throughput,277.8 Transactions / Second (TPS)
+Peak Burst Throughput Requirement (3x),833.3 Transactions / Second (TPS)
+Target P99 Latency Budget (Design SLA),< 15.0 Milliseconds
+Measured Python Single-Item Latency (Logistic Regression),"~0.44 ms (~2,300 items/sec per core)"
+Measured Python Single-Item Latency (Random Forest),~16.3 ms (~61 items/sec per core)
+"Measured Python Batched Latency (Random Forest, 500 items)","~0.035 ms per item (~28,500 items/sec per core)"
+Proposed Production Engine,ONNX Runtime / C++ compilation or micro-batching to meet sub-15ms unbatched SLA
+Architecture Deployment Status,Proposed Architectural Blueprint (Unverified in live production)

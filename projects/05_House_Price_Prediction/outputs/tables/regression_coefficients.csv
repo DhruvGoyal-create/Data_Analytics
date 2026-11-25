@@ -1,0 +1,13 @@
+Feature,Standardized_Coefficient,Absolute_Weight,Impact_Rank,Direction
+ocean_proximity_ISLAND,136125.07261541774,136125.07261541774,1,Positive (+)
+median_income,75167.77476624849,75167.77476624849,2,Positive (+)
+latitude,-54415.69614449821,54415.69614449821,3,Negative (-)
+longitude,-53826.64801649362,53826.64801649362,4,Negative (-)
+population,-43403.43242731915,43403.43242731915,5,Negative (-)
+total_bedrooms,43068.181841870624,43068.181841870624,6,Positive (+)
+ocean_proximity_INLAND,-39786.65616133197,39786.65616133197,7,Negative (-)
+households,18382.19632373339,18382.19632373339,8,Positive (+)
+housing_median_age,13889.866188562912,13889.866188562912,9,Positive (+)
+total_rooms,-13094.251162194898,13094.251162194898,10,Negative (-)
+ocean_proximity_NEAR BAY,-5136.642217476561,5136.642217476561,11,Negative (-)
+ocean_proximity_NEAR OCEAN,3431.140073154221,3431.140073154221,12,Positive (+)
